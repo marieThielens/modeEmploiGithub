@@ -22,7 +22,7 @@
  + 9 Merger les branches (les fusionner) : il faut etre sur la branche master **git branch origin master".** N'oubliez pas de verifier que vous êtes dessus avec un git init. Ensuite tapez la commande : **git merge nomDeLaBranche**
  
  Reccupérer les dossiers chez vous : 
- + 9 git pull
+ + 10 git pull
  
  A savoir
  **git branch -d nomDeLaBranche** : pour "deleter"/ effacer une branche.
