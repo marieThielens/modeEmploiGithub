@@ -19,7 +19,7 @@
   + faites un commit. Le commit peut être considéré comme un commentaire qui explique ce que vous venez de faire. Ainsi vos partenaires sauront de quoi il s'agit. La commande : **git commit -m "j'ai rajouté un fichier index.html"**
   + faites **git status** pour vérifier. Maintenant au lieu d'etre vert c'est blanc.
  + 8 Dernière étape (ouf) :). Nous allons définitivement envoyer ce fichier sur le site de github. Pour ce faire il faut "pusher". La commande : **git push** (envoie tout sur la branche master) ou **git push -u origin master** (envoie tout sur la branche master aussi) ou **git push -u origin NomDeVotreBranche** (envoie tout sur votre branche).
- + 9 Merger les branches (les fusionner) : il faut etre sur la branche master **git branch origin master".** N'oubliez pas de verifier que vous êtes dessus avec un git init. Ensuite tapez la commande : **git merge nomDeLaBranche**
+ + 9 Merger les branches (les fusionner) : il faut etre sur la branche master **git branch origin master".** N'oubliez pas de verifier que vous êtes dessus avec un git status. Ensuite tapez la commande : **git merge nomDeLaBranche**
  
  Reccupérer les dossiers chez vous : 
  + 10 git pull
