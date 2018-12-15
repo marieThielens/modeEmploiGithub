@@ -1,4 +1,7 @@
-# modeEmploiGithub
+# Github et git
+
+
+## Github
 
 ## Etapes à suivre (cas 1 : de 0, aucun dossier n'existe sur votre ordinateur)
 
