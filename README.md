@@ -2,6 +2,7 @@
 
 ## Etapes à suivre (cas 1 : de 0, aucun dossier n'existe sur votre ordinateur)
 
+
 + 1 Sur le site Github, une fois connecté vous avez un petit plus en haut à droite. Cliquez et choisissez New repository (sert à créer le dossier).Donnez lui un nom. Exemple modeEmpoiGithub
 
 + 2 Cloner ce fichier dans votre ordinateur.
